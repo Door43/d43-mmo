@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmo:home|Door43 (mmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmo|d43-mmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmo/archive/master.zip|d43-mmo.zip]]
+
+**Recent Changes**
+{{changes>ns = mmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmo|Ethnologue data]]
+
